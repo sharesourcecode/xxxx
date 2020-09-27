@@ -4,7 +4,10 @@
 **Necessário level 16+ e +50 pontos de treinamento**
 Script macros para Titans war mobile game em todos servidores.
 
-1. Abra o Termux(https://play.google.com/store/apps/details?id=com.termux) app no Android e digite ou cole confirmando com a tecla ENTER:
+1. Instale os apps Termux(https://f-droid.org/repo/com.termux_99.apk);
+Termux:Boot(https://f-droid.org/repo/com.termux.boot_7.apk) e
+Termux:API(https://f-droid.org/repo/com.termux.api_43.apk).
+Em seguida abra o APP Termux e digite ou cole confirmando com a tecla ENTER:
 
 **apt install git -y**
 
