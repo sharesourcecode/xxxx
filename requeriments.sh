@@ -62,7 +62,7 @@ URL='furiadetitas.net'; TMP="$HOME/.6"; export TZ=America/Bahia; ALLIES="_WORK";
 		reset; clear
 		echo -e "Successful updates!\n"
 	else
-		sudo apt install w3m curl dos2unix termux-api -y
+		sudo apt install w3m curl dos2unix termux-api dnsutils -y
 		[[ $(date +%H) -lt 10 || $(date +%H) -gt 22 ]] && _sync
 		reset; clear
 	fi
