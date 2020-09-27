@@ -56,7 +56,7 @@ URL='furiadetitas.net'; TMP="$HOME/.6"; export TZ=America/Bahia; ALLIES="_WORK";
 	cd $TMP
 	termux-wake-lock &> /dev/null
 	if [[ $? = 0 ]] ; then
-		[[ ! -e executed.txt ]] && pkg install termux-api w3m curl dos2unix -y && >executed.txt
+		[[ ! -e executed.txt ]] && pkg install termux-api w3m curl dos2unix dnsutils -y && >executed.txt
 # _sync - to disable coment #
 		_sync
 		reset; clear
