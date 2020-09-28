@@ -2,7 +2,6 @@
 ***STABLE***
 
 **Necessário level 16+ e +50 pontos de treinamento**
-Script macros para Titans war mobile game em todos servidores.
 
 1. Instale os apps Termux(https://f-droid.org/repo/com.termux_99.apk);
 Termux:Boot(https://f-droid.org/repo/com.termux.boot_7.apk) e
