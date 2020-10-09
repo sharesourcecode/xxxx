@@ -55,9 +55,9 @@ _calliesID () {
 _alliesConf () {
 	cd $TMP
 	clear
-#	(1) _alliesID; _calliesID; _members; ALD=1; echo "Alliances on all battles active" ;;
+	_alliesID; _calliesID; _members; ALD=1; echo "Alliances on all battles active" ;
 
-	_alliesID; _members; [[ -e $TMP/callies.txt ]] && >$TMP/callies.txt; ALD=1; echo "Just Herois alliances now.";
+#	_alliesID; _members; [[ -e $TMP/callies.txt ]] && >$TMP/callies.txt; ALD=1; echo "Just Herois alliances now.";
 
 #	(3) _alliesID; _calliesID; [[ -e $TMP/allies.txt ]] && >$TMP/allies.txt; unset ALD; echo "Just Clan alliances now." ;;
 
