@@ -1,4 +1,4 @@
-# xxxx(Titans War Macro)
+# xxxx(furiadetitas.net Macro)
 ***STABLE***
 
 **Necessário level 16+ e +50 pontos de treinamento**
