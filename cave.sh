@@ -23,7 +23,7 @@ function _cave () {
 				num=$[$num-1] ;
 				echo $num ;;
 			(cavespeedUpr)
-				SRC=$($SOURCE -o accept_encoding=="*;q=0" "$URL$ACCESS2" -o user_agent="$(shuf -n1 .ua)") ;
+#				SRC=$($SOURCE -o accept_encoding=="*;q=0" "$URL$ACCESS2" -o user_agent="$(shuf -n1 .ua)") ;
 				num=$[$num-1] ;
 				echo $num ;;
 			(cavedownr|cavedownrclanbuiltprivateUpgradetruerrefcave)
